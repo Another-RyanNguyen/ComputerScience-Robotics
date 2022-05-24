@@ -1,7 +1,3 @@
-/*
-* Robotics with the BOE Shield - AvoidTableEdge
-* Adaptation of FastIrRoaming for table edge avoidance
-*/
 #include <Servo.h> // Include servo library
 Servo servoLeft; // Declare left and right servos
 Servo servoRight;
